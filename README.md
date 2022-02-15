@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Dobroslav
 
-## I'm Software Engineer and Founder of [Resource.so][resource]
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/dobroslav_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/DobroslavR&screen_name=dobroslav_dev)
+
+## I'm Software Engineer and Founder of [Resource.so][resource]
 
 - 🚀 I'm currently working on my first startup [Resource.so][resource]
 - 📕 I'm currently learning **React, NextJS, NestJS and Docker**
