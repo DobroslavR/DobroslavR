@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dobroslav_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/DobroslavR&screen_name=dobroslav_dev)
 
-## I'm Software Engineer and Founder of [Resource.so][resource]
+## I'm Software Engineer and Founder of [TweetAudience][tweet_audience]
 
-- 🚀 I'm currently working on my first startup [Resource.so][resource]
+- 🚀 I'm currently working on my first startup [TweetAudience][tweet_audience]
 - 📕 I'm currently learning **React, NextJS, NestJS and Docker**
-- 🤔 My goal for 2022 is to be **better developer**!
+- 🤔 My goal for 2022 is to **build profitable SaaS product**!
 
 ### Wanna connect?
 
@@ -22,4 +22,4 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/dobroslav.radosavljevic#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/dobroslav.radosavljevic#gh-dark-mode-only)
 
-[resource]: https://resource.so
+[tweet_audience]: https://twitter.com/tweet_audience
