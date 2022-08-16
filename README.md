@@ -22,4 +22,4 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/dobroslav.radosavljevic#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/dobroslav.radosavljevic#gh-dark-mode-only)
 
-[tweet_audience]: https://twitter.com/tweet_audience
+[tweet_audience]: https://twitter.com/TweetAudienceHQ
