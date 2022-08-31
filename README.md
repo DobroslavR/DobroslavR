@@ -10,8 +10,8 @@
 
 ### Wanna connect?
 
-[![website](./img/globe-light.svg)](https://dobroslav.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dobroslav.dev#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.dobroslavradosavljevic.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.dobroslavradosavljevic.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/dobroslav_dev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/dobroslav_dev#gh-dark-mode-only)
