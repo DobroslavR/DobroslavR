@@ -4,9 +4,9 @@
 
 ## I'm Software Engineer and Founder of [TweetAudience][tweet_audience]
 
-- 🚀 I'm currently working on my first startup [TweetAudience][tweet_audience]
+- 🚀 I'm currently working on my startup [TweetAudience][tweet_audience] and some other projects
 - 📕 My main focus is on Fullstack development with React and NestJS
-- 🤔 Goal for 2022 is to **build profitable SaaS product**!
+- 🤔 Goal for 2023 is to **build profitable SaaS product**!
 
 ### Wanna connect?
 
