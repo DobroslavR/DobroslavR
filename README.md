@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dobroslav_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/DobroslavR&screen_name=dobroslav_dev)
 
-## I'm Software Engineer and Founder of [TweetAudience][tweet_audience]
+## I'm Full-Stack Software Engineer
 
-- 🚀 I'm currently working on my startup [TweetAudience][tweet_audience] and some other projects
+- 🚀 I'm currently working on multiple side projects as indie maker + doing full-time job
 - 📕 My main focus is on Fullstack development with React and NestJS
-- 🤔 Goal for 2023 is to **build profitable SaaS product**!
+- 🤔 Goal for 2023 is to **build profitable SaaS product, learn new things and build stuff for people**!
 
 ### Wanna connect?
 
