@@ -4,7 +4,7 @@
 
 ## I'm Full-Stack Software Engineer
 
-- 🚀 I'm currently working on multiple side projects as indie maker + doing full-time job
+- 🚀 I'm currently working on multiple side projects as an indie maker
 - 📕 My main focus is on Fullstack development with React and NestJS
 - 🤔 Goal for 2023 is to **build profitable SaaS product, learn new things and build stuff for people**!
 
